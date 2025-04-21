@@ -13,7 +13,6 @@ A real-time chat application built with Firebase, featuring secure authenticatio
 - 🔐 **User Authentication** (via Firebase Auth)
 - 💬 **Real-time Messaging** (using Firestore)
 - 🖼️ **Image Upload Support** (via Firebase Storage)
-- 📱 **Responsive Design** (desktop + mobile)
 
 ---
 
